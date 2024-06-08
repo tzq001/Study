@@ -1,0 +1,154 @@
+.d0 {
+    width: 1348px;
+    height: 2794px;
+}
+
+.d1 {
+    height: 660px;
+    background-image: url("images/04.jpg");
+    background-position: center;
+    color: #fff;
+}
+
+.d1 .nav {
+    height: 100px;
+    background: rgb(0, 0, 0, 0.3) url("images/newlogo.png") no-repeat 45px 35px;
+}
+
+.d1 .nav .a1 {
+    display: inline-block;
+    margin-left: 200px;
+    margin-top: 40px;
+}
+
+.white {
+    color: #fff;
+    font-size: 16px;
+}
+
+.nav .a1 a {
+    color: #fff;
+    font-size: 16px;
+    text-decoration: none;
+    padding: 20px;
+}
+
+.d1 .nav .a2 {
+    width: 348px;
+    height: 100px;
+    float: right;
+}
+
+.nav .a2 .a3 {
+    margin-top: 15px;
+    padding: 5px;
+}
+
+.a2 .a3 span {
+    margin: 5px;
+}
+
+.a2 .a4 {
+    border: 2px solid gray;
+    width: 245px;
+    height: 20px;
+    margin: 10px;
+    padding: 5px;
+}
+
+.a2 .a4 input {
+    background: none;
+    border: none;
+    color: rgba(163, 163, 163, 0.977);
+    font-size: 15px;
+}
+
+#img3 {
+    height: 20px;
+    float: right;
+    margin: 0px 5px 0px 0px;
+}
+
+.d1 .con {
+    height: 510px;
+
+}
+
+#img1 {
+    width: 50px;
+    height: 90px;
+    float: left;
+    margin-top: 200px;
+    margin-left: 40px;
+
+}
+
+#img2 {
+    width: 50px;
+    height: 90px;
+    margin-right: 40px;
+    margin-top: 200px;
+    float: right;
+}
+
+.d1 .ub {
+    height: 50px;
+    background: rgb(0, 0, 0, 0.7);
+}
+
+.d1 .ub span {
+    display: inline-block;
+    height: 50px;
+    /* padding: 10px; */
+    margin: 0px 10px;
+    line-height: 50px;
+}
+
+.d5 {
+    height: 335px;
+    background-color: rgb(64, 65, 67)
+}
+
+.d2 {
+    height: 500px;
+    text-align: center;
+    line-height: 10px;
+}
+
+h3 {
+    font: 40px normal;
+}
+
+.d2 .b3 {
+    width: 400px;
+    height: 220px;
+    display: inline-block;
+    background: url(images/32.jpg) no-repeat;
+}
+
+.d2 .b4 {
+    width: 400px;
+    height: 220px;
+    display: inline-block;
+    background: url(images/3.jpg) no-repeat;
+}
+
+.d2 .b5 {
+    width: 400px;
+    height: 220px;
+    display: inline-block;
+    background: url(images/31.jpg) no-repeat;
+}
+
+.d5 span {
+    display: inline-block;
+}
+
+.d5 span dt {
+    color: #fff;
+}
+
+.gray {
+    color: gray;
+    font-size: 16px;
+}
