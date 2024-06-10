@@ -1,0 +1,181 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* div {
+    border: 1px solid black;
+} */
+
+.top {
+    height: 100px;
+}
+
+.banner {
+    height: 420px;
+    background: url(images/banner2.png) no-repeat center #1c036b;
+}
+
+.content {
+    height: 2380px;
+    background-color: #f4f5f9;
+}
+
+.bottom {
+    height: 420px;
+}
+
+.top .box {
+    width: 1220px;
+    height: 45px;
+    margin: 30px auto;
+}
+
+.top .box .a1 {
+    float: left;
+    margin-right: 70px;
+}
+
+.top .box .a2 {
+    float: left;
+    margin-right: 70px;
+}
+
+.top .box .a3 {
+    float: left;
+    height: 40px;
+}
+
+
+.top .box .a2 a {
+    font-size: 20px;
+    color: #414244;
+    padding: 10px;
+    text-decoration: none;
+    line-height: 45px;
+    margin-right: 20px;
+}
+
+.top .box .a3 input {
+    width: 360px;
+    height: 37px;
+    border: 1px solid #00a5ff;
+    font-size: 18px;
+    color: #ccc;
+    padding-left: 20px;
+}
+
+.top .box .a3 img {
+    float: right;
+}
+
+.top .box .a4 {
+    float: right;
+    color: #78797b;
+    margin-right: 20px;
+    height: 40px;
+}
+
+.top .box .a4 em {
+    font-style: normal;
+}
+
+.banner .box2 {
+    width: 1220px;
+    margin: 0px auto;
+}
+
+.banner .box2 .b1 {
+    float: left;
+    width: 190px;
+    background: rgb(0, 0, 0, .3);
+}
+
+.banner .box2 .b1 ul {
+    list-style: none;
+    margin: 30px 20px;
+}
+
+.banner .box2 .b1 li {
+    width: 200px;
+    height: 40px;
+    line-height: 45px;
+}
+
+.banner .box2 .b1 a {
+    font-size: 16px;
+    font-family: '微软雅黑';
+    color: #fff;
+    text-decoration: none;
+}
+
+.banner .box2 a:hover {
+    color: #00a5ff;
+}
+
+.banner .box2 .b2 {
+    width: 230px;
+    height: 300px;
+    background-color: #ffff;
+    float: right;
+    margin: 50px 0px 70px 0px;
+}
+
+.banner .box2 .b2 .bb1 {
+    height: 50px;
+    background-color: #9bceeb;
+}
+
+.banner .b2 .bb1 h4 {
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    line-height: 50px;
+}
+
+.banner .b2 a {
+    text-decoration: none;
+    color: #414244;
+    font-size: 14px;
+}
+
+.banner .b2 .bb4 {
+    border-bottom: 0px;
+}
+
+
+.bh4 {
+    font-size: 16px;
+    color: #000;
+    font-weight: normal;
+    display: inline-block;
+}
+
+.box-center {
+    width: 190px;
+    height: 35px;
+    border-bottom: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+}
+
+.gray {
+    color: #ccc;
+    font-size: 10px;
+}
+
+.banner .b2 .bb5 {
+    width: 200px;
+    height: 20px;
+    border: 1px solid #00a5ff;
+    margin: 10px;
+    padding: 5px;
+    color: #00a5ff;
+    font: bold 16px '微软雅黑';
+    text-align: center;
+    line-height: 20px;
+}
+
+.banner .b2 h4:hover {
+    color: #00a5ff;
+}
