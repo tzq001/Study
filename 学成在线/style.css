@@ -1,6 +1,7 @@
 * {
     margin: 0px;
     padding: 0px;
+    font-family: '微软雅黑';
 }
 
 /* div {
@@ -178,4 +179,150 @@
 
 .banner .b2 h4:hover {
     color: #00a5ff;
+}
+
+.content .con1 {
+    width: 190px;
+    height: 425px;
+    background-color: #fff;
+    float: left;
+}
+
+.content .con1 ul {
+    list-style: none;
+    margin: auto auto;
+
+}
+
+.content .con1 ul li {
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 15px;
+}
+
+.content .con1 ul a {
+    color: #414244;
+    font-size: 16px;
+    text-decoration: none;
+    padding: 5px;
+    line-height: 40px;
+}
+
+.content .con1 ul a:hover {
+    color: #00a5ff;
+}
+
+
+.content .title {
+    width: 1200px;
+    height: 65px;
+    background-color: #ffffff;
+    margin: 8px auto;
+}
+
+.content .title .t1 {
+    width: 900px;
+    height: 60px;
+    float: left;
+}
+
+.content .title .t1 span {
+    width: 120px;
+    padding: 0px 30px;
+    border-right: 1px solid #bfbfbf;
+}
+
+.content .title .t2 {
+    float: right;
+    height: 60px;
+    margin: 0px 25px;
+}
+
+.content .title a {
+    font: 16px '微软雅黑';
+    color: #414141;
+    text-decoration: none;
+    line-height: 60px;
+}
+
+.content .title a:hover {
+    color: #00a5ff;
+}
+
+.content .con2 {
+    width: 1250px;
+    margin: 0 auto;
+}
+
+.tt1 {
+    font-size: 12px;
+    color: #9a9b9d;
+    float: right;
+    padding: 5px 30px;
+    margin-right: 30px;
+}
+
+.content .con2 .c1 {
+    width: 1250px;
+    height: 600px;
+}
+
+.content .con2 .c1 h4 {
+    display: inline-block;
+    font-size: 20px;
+    font-weight: normal;
+    color: #4b4c4e;
+}
+
+.k {
+    width: 230px;
+    height: 270px;
+    float: left;
+    margin: 15px 15px 0px 0px;
+    background-color: #ffffff;
+}
+
+.content .con2 .cc1 .img1 {
+    width: 230px;
+    height: 155px;
+    background-image: url(images/pic.png);
+}
+
+.tag {
+    float: right;
+    margin-top: 5px;
+}
+
+.hight-20 {
+    margin: 15px 20px;
+}
+
+.content .con2 .cc1 .k {
+    font-size: 14px;
+}
+
+.content .con2 .cc1 .k:hover {
+    box-shadow: 1px 1px 2px 2px rgb(0, 0, 0, .2);
+}
+
+.word-2 {
+    padding-left: 20px;
+}
+
+.content .con2 .cc1 .img2 {
+    width: 228px;
+    height: 155px;
+    background-image: url(images/pic_02.jpg);
+}
+
+.content .con2 .cc1 .img3 {
+    width: 228px;
+    height: 155px;
+    background-image: url(images/pic_03.jpg);
+}
+
+.content .con2 .cc1 .img4 {
+    width: 230px;
+    height: 155px;
+    background-image: url(images/pic_04.jpg);
 }
