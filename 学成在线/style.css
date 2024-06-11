@@ -4,9 +4,7 @@
     font-family: '微软雅黑';
 }
 
-/* div {
-    border: 1px solid black;
-} */
+
 
 .top {
     height: 100px;
@@ -18,7 +16,7 @@
 }
 
 .content {
-    height: 2380px;
+    height: 1210px;
     background-color: #f4f5f9;
 }
 
@@ -267,7 +265,7 @@
     height: 600px;
 }
 
-.content .con2 .c1 h4 {
+.h4 {
     display: inline-block;
     font-size: 20px;
     font-weight: normal;
@@ -280,6 +278,7 @@
     float: left;
     margin: 15px 15px 0px 0px;
     background-color: #ffffff;
+    font-size: 14px;
 }
 
 .content .con2 .cc1 .img1 {
@@ -294,12 +293,10 @@
 }
 
 .hight-20 {
+    height: 35px;
     margin: 15px 20px;
 }
 
-.content .con2 .cc1 .k {
-    font-size: 14px;
-}
 
 .content .con2 .cc1 .k:hover {
     box-shadow: 1px 1px 2px 2px rgb(0, 0, 0, .2);
@@ -325,4 +322,82 @@
     width: 230px;
     height: 155px;
     background-image: url(images/pic_04.jpg);
+}
+
+.content .con2 .c2 {
+    width: 1250px;
+    height: 435px;
+    margin: 30px 0px;
+}
+
+.content .con2 .c2 .lev {
+    display: inline-block;
+    width: 1020px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.content .con2 .c2 .lev a {
+    font-size: 16px;
+    padding: 0px 35px;
+    text-decoration: none;
+    color: #848587;
+}
+
+.content .con2 .c2 .lev a:hover {
+    color: #00a5ff;
+}
+
+.r20 {
+    float: left;
+    margin: 15px 10px 0 0;
+}
+
+.bottom .dilan {
+    width: 1160px;
+    height: 155px;
+    margin: 30px auto;
+}
+
+.bottom .dilan .dilan-left {
+    float: left;
+    width: 435px;
+    height: 155px;
+}
+
+.bottom .dilan .dilan-right {
+    float: right;
+    height: 145px;
+
+}
+
+.bottom .dilan-left .jieshao {
+    margin: 10px 0px;
+    font-size: 12px;
+    color: #707070;
+    line-height: 20px;
+}
+
+.bottom .dilan-left button {
+    text-align: center;
+    padding: 5px 30px;
+    height: 36px;
+    font-size: 18px;
+    color: #00a5ff;
+    background: none;
+    border: 1px solid #00a5ff;
+}
+
+.biaotou {
+    font-size: 16px;
+    color: #5e5e5e;
+    font-family: '宋体';
+    text-align: left;
+    height: 30px;
+}
+
+.biao {
+    font-size: 12px;
+    font-family: '宋体';
+    color: #333333;
 }
